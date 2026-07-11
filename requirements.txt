@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+chromadb
+pypdf
+streamlit
+python-dotenv
+tiktoken
+langchain-text-splitters==0.3.0
